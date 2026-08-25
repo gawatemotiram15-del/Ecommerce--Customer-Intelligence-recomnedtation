@@ -1,4 +1,4 @@
-# Ecommerce--product-recomnedtation
+# Ecommerce--product-recomnedtation--system using olist dataset
 E-Commerce product  and Recommendation System using Machine Learning. Includes customer segmentation, product recommendation, data analysis and ML-based insights.
 ## Product Recommendation System
 
